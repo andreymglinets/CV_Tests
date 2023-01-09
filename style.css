@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --size_width:100%;
+}
+
+header{
+    width: var(--size_width);
+    background-color: #11b57c;
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    padding-bottom: 240px;
+}
+
+.amout-me{
+    width: 70%;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.name{
+    font-size: 26px;
+    text-transform: uppercase;
+}
+
+.position{
+    font-size: 19.5px;
+}

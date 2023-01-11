@@ -13,6 +13,8 @@
 body{
     width: 100%;
     background-color: rgb(231, 231, 231);
+    min-width: 755px;
+    max-width: 1600px;
 }
 
 a{
@@ -27,6 +29,8 @@ header{
     justify-content: center;
     padding-top: 60px;
     padding-bottom: 240px;
+    min-width: 755px;
+    max-width: 1600px;
 }
 
 img{

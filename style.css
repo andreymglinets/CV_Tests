@@ -11,6 +11,7 @@
 }
 
 body{
+    width: 100%;
     background-color: rgb(231, 231, 231);
 }
 
@@ -65,6 +66,8 @@ main{
     box-shadow: 3px 3px 10px black;
     margin-left: auto;
     margin-right: auto;
+    min-width: 755px;
+    max-width: 1600px;
 }
 
 .personal-information__label{
@@ -340,6 +343,8 @@ cursor: pointer;
 
 .skills-content{
     width: var(--content-size);
+    min-width: 755px;
+    max-width: 1600px;
     background-color: white;
     box-shadow: 3px 3px 10px black;
     margin-left: auto;
@@ -424,6 +429,8 @@ cursor: pointer;
   
   .education-content{
     width: var(--content-size);
+    min-width: 755px;
+    max-width: 1600px;
     background-color: white;
     box-shadow: 3px 3px 10px black;
     margin: 0 auto 0 auto;
@@ -475,6 +482,8 @@ cursor: pointer;
 
   .experience-content{
     width: var(--content-size);
+    min-width: 755px;
+    max-width: 1600px;
     background-color: white;
     box-shadow: 3px 3px 10px black;
     margin: 0 auto 0 auto;
@@ -505,6 +514,8 @@ footer{
 
 .about-me-content{
     width: var(--content-size);
+    min-width: 755px;
+    max-width: 1600px;
     background-color: white;
     box-shadow: 3px 3px 10px black;
     margin: 0 auto 0 auto;

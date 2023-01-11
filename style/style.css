@@ -422,7 +422,7 @@ cursor: pointer;
     }
   }
   
-  .perc {
+.perc {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -431,7 +431,7 @@ cursor: pointer;
     font-weight: bold;
   }
   
-  .education-content{
+.education-content{
     width: var(--content-size);
     min-width: 755px;
     max-width: 1600px;
@@ -448,7 +448,7 @@ cursor: pointer;
     padding-bottom: 52px;
 }
 
-  .size-education{
+.size-education{
     width: 40%;
     border: 3px solid rgb(231, 231, 231);
     display: flex;
@@ -457,34 +457,34 @@ cursor: pointer;
     text-align: center;
   }
 
-  .higher-education{
+.higher-education{
     margin-right: 40px;
     padding-top: 50px;
     padding-bottom: 50px;
   }
 
-  .special-education{
+.special-education{
     margin-left: 40px;
   }
 
-  .name-ed{
+.name-ed{
     text-transform: uppercase;
     color:  #1C68B0;
     font-size: 26px;
     font-weight: bold;
-  }
+}
 
-  .diploma{
+.diploma{
     color: #11b57c;
     margin-top: 20px;
     font-size: 24px;
-  }
+}
 
-  .faculty-name{
+.faculty-name{
     margin-top: 20px;
-  }
+}
 
-  .experience-content{
+.experience-content{
     width: var(--content-size);
     min-width: 755px;
     max-width: 1600px;
@@ -496,7 +496,7 @@ cursor: pointer;
     justify-content: center;
     text-align: center;
     padding: 30px 0px 30px 0px;
-  }
+}
 
 .responsibilities{
   margin-left: auto;
@@ -507,14 +507,14 @@ cursor: pointer;
 
 .responsibilities li{
     margin-top: 20px;
-  }
+}
 
 footer{
     display: flex;
     justify-content: center;
     flex-direction: column;
     margin-bottom: 50px;
-  }
+}
 
 .about-me-content{
     width: var(--content-size);
@@ -527,9 +527,9 @@ footer{
     justify-content: center;
     padding-top: 132px;
     padding-bottom: 132px;
-  }
+}
 
-  .dropbtn {
+.dropbtn {
     background-color: #1C68B0;
     color: white;
     padding: 16px;

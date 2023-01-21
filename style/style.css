@@ -312,19 +312,19 @@ nav{
 }
 
 .networks #gmail{
-    background-image: url(./content/gmail.png);
+    background-image: url(../content/gmail.png);
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .networks #linkedin{
-    background-image: url(./content/linkedin.png);
+    background-image: url(../content/linkedin.png);
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .networks #git{
-    background-image: url(./content/github.png);
+    background-image: url(../content/github.png);
     background-repeat: no-repeat;
     background-position: center;
 }
